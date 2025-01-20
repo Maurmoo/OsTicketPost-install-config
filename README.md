@@ -37,7 +37,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - End User Portal: User http://localhost/osTicket
   
 ## step 1: Roles and Permissions
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/ddc6d53f-6085-430c-9e18-38758195dda9)
 </p>
 <p>
 

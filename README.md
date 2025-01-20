@@ -31,6 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <h2>Admin/Analyst Access</h2>
+
 - Admin Panel: Login http://localhost/osTicket/scp/login.php
 
 - End User Portal: User http://localhost/osTicket

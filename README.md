@@ -67,7 +67,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-- Set up cross-department teams for specialized tasks: Online Banking
+- Set up cross-department teams for specialized tasks: Agent / Teams / add new team / Online Banking
 </p>
 <br />
 

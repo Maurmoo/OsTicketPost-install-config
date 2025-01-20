@@ -100,7 +100,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ## User Karen
 ![image](https://github.com/user-attachments/assets/e8e375f3-4896-4723-895c-cff38c6f81dd)
 
-## Ken
+## User Ken
 ![image](https://github.com/user-attachments/assets/3740c420-f13d-49e6-85a6-772e1dd3d9a8)
 </p>
 <p>

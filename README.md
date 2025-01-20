@@ -88,5 +88,6 @@ This osTicket configuration streamlines IT support by organizing roles, departme
 
 ## Credits
 This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work. https://github.com/joshmadakorcc/post-install-config
+
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 

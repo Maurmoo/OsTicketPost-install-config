@@ -64,6 +64,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   
 ## Step 3: Teams 
+## Online Banking
 ![image](https://github.com/user-attachments/assets/bcfb950d-307f-4bd2-a87d-40e1597b7860)
 </p>
 <p>

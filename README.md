@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
   
-##Step 5: Agents and Users
+## Step 5: Agents and Users
 </p>
 <p>
 

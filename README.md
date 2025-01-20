@@ -31,8 +31,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 
 <h2>Admin/Analyst Access</h2>
-- Admin Panel: Login URL
-- End User Portal: User UR
+- Admin Panel: Login http://localhost/osTicket/scp/login.php
+
+- End User Portal: User http://localhost/osTicket
   
 ## step 1: Roles and Permissions
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

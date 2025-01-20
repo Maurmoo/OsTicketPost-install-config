@@ -115,7 +115,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ## Sev-A
 ![image](https://github.com/user-attachments/assets/16dfdc00-bd9c-455c-9e64-c85b7846745f)
  - Sev-A: 1-hour grace period (24/7 schedule).
- - 
+  
 ## Sev-B 
 ![image](https://github.com/user-attachments/assets/4dfa60c0-e36b-4c2a-891a-1ac4b6216ae1)
  - Sev-B: 4-hour grace period (24/7 schedule).
@@ -138,11 +138,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   
 - Created help topics for users to categorize tickets effectively
-- Business Critical Outage
-- Personal Computer Issues
-- Equipment Request
-- Password Reset
-- Other
+
+## Business Critical Outage
+![image](https://github.com/user-attachments/assets/1179a027-c7c7-47b6-b9af-2d4dc2c4fa72)
+- Parent Topic: Report a problem
+  
+## Personal Computer Issues
+![image](https://github.com/user-attachments/assets/818ee26c-10ef-4942-a54a-6e1a0bb7c268)
+- Parent Topic: Report a problem
+- 
+## Equipment Request
+![image](https://github.com/user-attachments/assets/683c7710-48f4-4013-8b12-095814be4298)
+- Parent Topic: General Inquiry
+
+## Password Reset
+![image](https://github.com/user-attachments/assets/4f09ab04-112a-4fb8-8c59-331480d99d81)
+- Parent Topic: Report a problem
+  
+## Other
+![image](https://github.com/user-attachments/assets/f55411b9-6945-4787-b789-de0548b1da3b)
+- Parent Topic: General Inquiry
 </p>
 <br />
 

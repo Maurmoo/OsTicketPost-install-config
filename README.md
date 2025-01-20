@@ -93,7 +93,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-- Added agents for handling tickets: Jane: Assigned to SysAdmins, John: Assigned to Support.
+- Added agents for handling tickets Agent / Agent  Jane: Assigned to SysAdmins, John: Assigned to Support.
 - Added users (customers): Karen, Ken
 </p>
 <br />

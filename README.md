@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-- Configured roles to group permissions for agents.
+- Configured roles to group permissions for agents: Agent / Roles / Add new role 
 - Created a "Supreme Admin" role for top-level management.
 </p>
 <br />

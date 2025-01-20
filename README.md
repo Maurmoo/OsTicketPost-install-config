@@ -47,7 +47,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
   
 ## Step 2: Departments
-
+![image](https://github.com/user-attachments/assets/27c00a89-d0f0-4325-b641-d3e1b864bdf1)
 </p>
 <p>
   

@@ -74,7 +74,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   
 ## Step 4: User Ticket Creation
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/6b2a7c1a-e87c-4443-8a82-96f91d3c6b8a)
+
 </p>
 <p>
 

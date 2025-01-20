@@ -85,6 +85,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
   
 ## Step 5: Agents and Users
+![image](https://github.com/user-attachments/assets/c82c036a-4fec-457e-92db-0859a13a7767)
+
 </p>
 <p>
 

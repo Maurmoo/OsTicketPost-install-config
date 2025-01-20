@@ -34,48 +34,85 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>
   
-## Roles and Permissions
+## step 1: Roles and Permissions
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+- Configured roles to group permissions for agents.
+- Created a "Supreme Admin" role for top-level management.
+</p>
+<br />
   
-## Departments
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## Step 2: Departments
+
+</p>
+<p>
+  
+- Added departments to manage ticket visibility and routing:
+- Help Desk
+- SysAdmins
+- Networking
 </p>
 <br />
 
 <p>
   
-## Teams 
+## Step 3: Teams 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Set up cross-department teams for specialized tasks: Online Banking
 </p>
 <br />
 
 <p>
   
-## User Ticket Creation
+## Step 4: User Ticket Creation
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-## Agents and Users
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- Enabled registration-required ticket creation: Admin Panel -> Settings -> User Settings
+- Unchecked "Allow unregistered users to create tickets."
+</p>
+<br />
+  
+##Step 5: Agents and Users
+</p>
+<p>
+
+- Added agents for handling tickets: Jane: Assigned to SysAdmins, John: Assigned to Support.
+- Added users (customers): Karen, Ken
 </p>
 <br />
 
 <p>
   
-## Service Level Agreements (SLAs)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## Step 6: Service Level Agreements (SLAs)
+</p>
+<p>
+  
+- Configured SLAs to manage ticket priority and deadlines:
+- Sev-A: 1-hour grace period (24/7 schedule).
+- Sev-B: 4-hour grace period (24/7 schedule).
+- Sev-C: 8-hour grace period (business hours).
 </p>
 <br />
 
 <p>
   
-## Help Topics
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+## Step 7: Help Topics
+</p>
+<p>
+  
+- Created help topics for users to categorize tickets effectively
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
 </p>
 <br />
 

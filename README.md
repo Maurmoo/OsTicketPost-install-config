@@ -79,7 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-- Enabled registration-required ticket creation: Admin Panel -> Settings -> User Settings
+- Enabled registration-required ticket creation: Admin Panel / Settings / User Settings
 - Unchecked "Allow unregistered users to create tickets."
 </p>
 <br />
@@ -93,8 +93,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-- Added agents for handling tickets Agent / Agent  Jane: Assigned to SysAdmins, John: Assigned to Support.
-- Added users (customers): Karen, Ken
+- Added agents for handling tickets Agent / Agent / Add new agent:  Jane: Assigned to SysAdmins, John: Assigned to Support.
+</p>
+<br />
+
+## User Karen
+![image](https://github.com/user-attachments/assets/e8e375f3-4896-4723-895c-cff38c6f81dd)
+
+## Ken
+![image](https://github.com/user-attachments/assets/3740c420-f13d-49e6-85a6-772e1dd3d9a8)
+</p>
+<p>
+  
+- Added users (customers): Agent Panel / Users / Add user: Karen, Ken
 </p>
 <br />
 

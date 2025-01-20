@@ -47,14 +47,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
   
 ## Step 2: Departments
+## SysAdmins
 ![image](https://github.com/user-attachments/assets/27c00a89-d0f0-4325-b641-d3e1b864bdf1)
+
+## Help Desk
+![image](https://github.com/user-attachments/assets/6f399d97-14f0-403e-8b7a-35b61b8032db)
+
 </p>
 <p>
   
-- Added departments to manage ticket visibility and routing:
-- Help Desk
-- SysAdmins
-- Networking
+- Added departments to manage ticket visibility and routing
 </p>
 <br />
 

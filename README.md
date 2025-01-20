@@ -112,13 +112,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
   
 ## Step 6: Service Level Agreements (SLAs)
+## Sev-A
+![image](https://github.com/user-attachments/assets/16dfdc00-bd9c-455c-9e64-c85b7846745f)
+ - Sev-A: 1-hour grace period (24/7 schedule).
+ - 
+## Sev-B 
+![image](https://github.com/user-attachments/assets/4dfa60c0-e36b-4c2a-891a-1ac4b6216ae1)
+ - Sev-B: 4-hour grace period (24/7 schedule).
+   
+## Sev-C
+![image](https://github.com/user-attachments/assets/abbee200-a614-45df-8705-371b6bb1219b)
+- Sev-C: 8-hour grace period (business hours).
 </p>
 <p>
   
-- Configured SLAs to manage ticket priority and deadlines:
-- Sev-A: 1-hour grace period (24/7 schedule).
-- Sev-B: 4-hour grace period (24/7 schedule).
-- Sev-C: 8-hour grace period (business hours).
+- Configured SLAs to manage ticket priority and deadlines
+
 </p>
 <br />
 

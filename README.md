@@ -85,3 +85,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 This osTicket configuration streamlines IT support by organizing roles, departments, and teams for efficient ticket routing. With SLAs, help topics, and secure access policies, it ensures timely issue resolution and system integrity. Explore the full implementation in my GitHub repository.
 </p>
 <br />
+
+## Credits
+This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work. https://github.com/joshmadakorcc/post-install-config
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue)

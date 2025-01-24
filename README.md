@@ -18,13 +18,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Roles and Permissions:
-- Departments
-- Teams
-- User Ticket Creation
-- Agents and Users
-- Service Level Agreements (SLAs)
-- Help Topics
+- **Step 1**:Roles and Permissions:
+- **Step 2**:Departments
+- **Step 3**:Teams
+- **Step 4**:User Ticket Creation
+- **Step 5**:Agents and Users
+- **Step 6**:Service Level Agreements (SLAs)
+- **Step 7**:Help Topics
 
 <h2>Configuration Steps</h2>
 
@@ -182,8 +182,6 @@ This osTicket configuration streamlines IT support by organizing roles, departme
 </p>
 <br />
 
-## Credits
-This Project is based on the template by Josh Madakor. I've customized it to suit my needs while retaining the structure and inspiration from the original work. https://github.com/joshmadakorcc/post-install-config
 
 ![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
 
